@@ -1,2 +1,2 @@
-# jskora
-Indescribable
+# Mindless ramblings
+Nothing to see here, please move along...
